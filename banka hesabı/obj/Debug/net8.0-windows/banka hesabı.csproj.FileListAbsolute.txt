@@ -1,0 +1,16 @@
+C:\Users\zorma\OneDrive\Masaüstü\banka hesabı\banka hesabı\bin\Debug\net8.0-windows\banka hesabı.exe
+C:\Users\zorma\OneDrive\Masaüstü\banka hesabı\banka hesabı\bin\Debug\net8.0-windows\banka hesabı.deps.json
+C:\Users\zorma\OneDrive\Masaüstü\banka hesabı\banka hesabı\bin\Debug\net8.0-windows\banka hesabı.runtimeconfig.json
+C:\Users\zorma\OneDrive\Masaüstü\banka hesabı\banka hesabı\bin\Debug\net8.0-windows\banka hesabı.dll
+C:\Users\zorma\OneDrive\Masaüstü\banka hesabı\banka hesabı\bin\Debug\net8.0-windows\banka hesabı.pdb
+C:\Users\zorma\OneDrive\Masaüstü\banka hesabı\banka hesabı\obj\Debug\net8.0-windows\banka_hesabı.Form1.resources
+C:\Users\zorma\OneDrive\Masaüstü\banka hesabı\banka hesabı\obj\Debug\net8.0-windows\banka hesabı.csproj.GenerateResource.cache
+C:\Users\zorma\OneDrive\Masaüstü\banka hesabı\banka hesabı\obj\Debug\net8.0-windows\banka hesabı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zorma\OneDrive\Masaüstü\banka hesabı\banka hesabı\obj\Debug\net8.0-windows\banka hesabı.AssemblyInfoInputs.cache
+C:\Users\zorma\OneDrive\Masaüstü\banka hesabı\banka hesabı\obj\Debug\net8.0-windows\banka hesabı.AssemblyInfo.cs
+C:\Users\zorma\OneDrive\Masaüstü\banka hesabı\banka hesabı\obj\Debug\net8.0-windows\banka hesabı.csproj.CoreCompileInputs.cache
+C:\Users\zorma\OneDrive\Masaüstü\banka hesabı\banka hesabı\obj\Debug\net8.0-windows\banka hesabı.dll
+C:\Users\zorma\OneDrive\Masaüstü\banka hesabı\banka hesabı\obj\Debug\net8.0-windows\refint\banka hesabı.dll
+C:\Users\zorma\OneDrive\Masaüstü\banka hesabı\banka hesabı\obj\Debug\net8.0-windows\banka hesabı.pdb
+C:\Users\zorma\OneDrive\Masaüstü\banka hesabı\banka hesabı\obj\Debug\net8.0-windows\banka hesabı.genruntimeconfig.cache
+C:\Users\zorma\OneDrive\Masaüstü\banka hesabı\banka hesabı\obj\Debug\net8.0-windows\ref\banka hesabı.dll
